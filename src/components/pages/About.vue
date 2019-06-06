@@ -13,7 +13,7 @@
                <img src="static/images/agung.png" height="280px" width="283px">
              </v-flex>
              <v-flex xs12>
-             <div class="black--text" style="margin-top:20px">
+             <div class="black--text black--text" style="margin-top:20px">
               <h2>Agung Prio Rismawan</h2>
                 <h4>
                   I am a hard worker and passionate about software <br>engineering especially for front end web <br>developer and UI/UX designer.
