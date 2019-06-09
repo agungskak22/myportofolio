@@ -55,8 +55,8 @@ export default {
       navs: [
         { title: 'Tentang Saya', icon: 'directions_bike', path: '/' },
         { title: 'Riwayat Projek', icon: 'fingerprint', path: '/home' },
-        { title: 'Gallery Saya', icon: 'perm_media', path: '/gallery' }
-        // { title: 'Blog Saya', icon: 'domain', path: '/blog' }
+        { title: 'Gallery Saya', icon: 'perm_media', path: '/gallery' },
+        { title: 'Blog Saya', icon: 'domain', path: '/blog' }
       ],
       msg: 'header',
       drawer: false
