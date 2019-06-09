@@ -5,7 +5,7 @@
         <v-card class="elevation-0 transparent">
           <h1>sketching Wajah</h1>
           <v-card-text>
-            <p class="">aku juga banget dengan desain grafis terkhusus dengan menggambar wajah seseorang<br/>berikut ini adalah sebagian gambar yang pernah aku buat</p>
+            <p class="">aku suka banget dengan desain grafis terkhusus dengan menggambar wajah seseorang<br/>berikut ini adalah sebagian gambar yang pernah aku buat</p>
             <v-carousel hide-delimiters>
               <v-carousel-item v-for="(pic,i) in pics" :src="pic.src" :key="i"></v-carousel-item>
             </v-carousel>
@@ -39,7 +39,7 @@ export default {
 <style scoped>
 .carousel {
   max-height: 500px;
-  max-width: 650px;
+  max-width: 750px;
   margin: 0 auto;
 }
 </style>
