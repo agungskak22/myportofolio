@@ -5,7 +5,7 @@
         <v-card class="elevation-0 transparent">
           <h1>sketching Wajah</h1>
           <v-card-text>
-            <p class="">aku suka banget dengan desain grafis terkhusus dengan menggambar wajah seseorang<br/>berikut ini adalah sebagian gambar yang pernah aku buat</p>
+            <p class="">saya suka banget dengan desain grafis terkhusus dengan menggambar wajah seseorang<br/>berikut ini adalah sebagian gambar yang pernah saya buat</p>
             <v-carousel hide-delimiters>
               <v-carousel-item v-for="(pic,i) in pics" :src="pic.src" :key="i"></v-carousel-item>
             </v-carousel>

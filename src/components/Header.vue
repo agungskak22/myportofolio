@@ -53,10 +53,10 @@ export default {
   data: () => {
     return {
       navs: [
-        { title: 'Tentang Saya', icon: 'directions_bike', path: '/' },
+        { title: 'Tentang Saya', icon: 'face', path: '/' },
         { title: 'Riwayat Projek', icon: 'fingerprint', path: '/home' },
-        { title: 'Gallery Saya', icon: 'perm_media', path: '/gallery' },
-        { title: 'Blog Saya', icon: 'domain', path: '/blog' }
+        { title: 'UI/UX design', icon: 'domain', path: '/blog' },
+        { title: 'Lain Lain', icon: 'perm_media', path: '/gallery' }
       ],
       msg: 'header',
       drawer: false
